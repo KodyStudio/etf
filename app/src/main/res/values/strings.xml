@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ETF</string>
+    <string name="todo">TODO</string>
+    <string name="intentelo_de_nuevo">intentelo de nuevo</string>
+    <string name="logo">logo</string>
+    <string name="todo2">TODO</string>
+    <string name="beatmaker" />
+    <string name="cargando">CARGANDO...</string>
+</resources>
